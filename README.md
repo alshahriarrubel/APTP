@@ -1,1 +1,1 @@
-# Facial-Expression-Recorgnition-using-APTP
+# Facial Expression Recorgnition using APTP
